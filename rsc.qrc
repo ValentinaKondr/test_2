@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pf">
+        <file>img/pug_life.jpg</file>
+    </qresource>
+</RCC>
